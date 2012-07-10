@@ -5,5 +5,7 @@ Creating online communication boards.
 ## Project Organization
 
 /py
-/jss
+
+/js
+
 /db_objects
