@@ -1,6 +1,6 @@
 # Connect Boards
 
-Creating online communication boards.
+A project to make it easy to create, share, and display communication boards online.
 
 ## Project Organization
 
